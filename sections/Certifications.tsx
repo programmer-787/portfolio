@@ -44,7 +44,7 @@ const certifications: Certification[] = [
   },
   {
     id: "college",
-    name: "Your College Name",
+    name: "Bahria College Hanif Campus",
     title: "Higher Secondary Education - In Progress",
     description:
       "Currently in the Intermediate (CS), building a strong foundation in computational thinking and programming. Actively exploring software logic and developing beginner-level projects to solve real-world problems while preparing for a Bachelor's in Software Engineering",
